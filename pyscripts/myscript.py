@@ -13,6 +13,7 @@ def parse_args():
 def main():
     args = parse_args()
     print(f"Hello, {args.name}!")
+    print("Welcome to DEVASC")
 
 
 if __name__ == "__main__":
